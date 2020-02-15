@@ -1,3 +1,8 @@
 Coordinating Tasks:
 
 One function of operating systems is the coordination of tasks. Operating systems can be assigned tasks like receiving inputs, processing information, sending outputs, and managing data between storage and memory. When operating systems receive requests while already processing a task, they will put the new requests in a segment of memory called a buffer. Sometimes tasks that are assigned first will end up in the buffer while the operating system works on higher priority tasks. Network administrators can assign priority to tasks to ensure that the operating system works on what's more important first.
+
+
+Providing a User Interface:
+
+Operating systems can be interacted with via user interfaces (U/I). The average computer user interacts with their devices via a graphical user interfaces (GUI), which allows users to utilize touch or pointers to interact with items on the computers display. Another type of U/I is the command line. Unlike with GUI's, the command line isn't navigated with touch or pointers but users type short keywords or use special keys to instruct the operating system. Some find this more difficult to use because it requires more precise spelling, but it also offers greater control over the systems of your computer. 
