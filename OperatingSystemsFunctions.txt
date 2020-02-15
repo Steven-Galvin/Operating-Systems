@@ -6,3 +6,8 @@ One function of operating systems is the coordination of tasks. Operating system
 Providing a User Interface:
 
 Operating systems can be interacted with via user interfaces (U/I). The average computer user interacts with their devices via a graphical user interfaces (GUI), which allows users to utilize touch or pointers to interact with items on the computers display. Another type of U/I is the command line. Unlike with GUI's, the command line isn't navigated with touch or pointers but users type short keywords or use special keys to instruct the operating system. Some find this more difficult to use because it requires more precise spelling, but it also offers greater control over the systems of your computer. 
+
+
+Starting Devices:
+
+One of the most common functions of operating systems is simply to turn the device on. Start up processes are fairly similar across devices, and many devices have the means to perform a cold or warm boot the device. Cold booting is when a device is turned on from an off state, and the operating system has to perform all the start-up instructions. A warm boot is a system restart without powering the device off, and because of that the operating system can skip some of the start-up instructions. That makes warm boots typically quicker than cold boots, though with that comes bypassing hardware checks which could be an issue if the hardware is to blame for the users need to restart. 
