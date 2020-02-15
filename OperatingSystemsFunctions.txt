@@ -1,0 +1,3 @@
+Coordinating Tasks:
+
+One function of operating systems is the coordination of tasks. Operating systems can be assigned tasks like receiving inputs, processing information, sending outputs, and managing data between storage and memory. When operating systems receive requests while already processing a task, they will put the new requests in a segment of memory called a buffer. Sometimes tasks that are assigned first will end up in the buffer while the operating system works on higher priority tasks. Network administrators can assign priority to tasks to ensure that the operating system works on what's more important first.
